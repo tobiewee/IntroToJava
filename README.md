@@ -18,7 +18,7 @@ One good option is [IntelliJ Idea Community Edition](https://www.jetbrains.com/i
 
 Download this set of codes using the green button above.
 Open it using the IntelliJ or your preferred IDE.
-Instructions are written in comments in each of the Java files *(.java)*.
+Explanations are written in comments in each of the Java files *(.java)*, and tasks are tagged with ***TODO:*** in the comments.
 
 #### Disclaimer:
 Comments are added for teaching/knowledge sharing purposes, and are usually not required in projects.
