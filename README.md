@@ -16,7 +16,8 @@ Simply ensure that you have a [JDK (1.8 is the latest)](http://www.oracle.com/te
 You might want to install an IDE to help you with Java development as well. 
 One good option is [IntelliJ Idea Community Edition](https://www.jetbrains.com/idea/).
 
-Download this set of codes, and open it using the IntelliJ or your preferred IDE.
+Download this set of codes using the green button above.
+Open it using the IntelliJ or your preferred IDE.
 Instructions are written in comments in each of the Java files *(.java)*.
 
 #### Disclaimer:
